@@ -30,7 +30,12 @@ It explores Netflix’s evolution in terms of catalog growth, content type, glob
 
 # Tech Stack
 - **Python**: Pandas, NumPy  
-- **Tableau**: Dashboard design, annotations, storytelling  
+- **Tableau**: Dashboard design, annotations, storytelling
+
+---
+
+# Dashboards
+- Image of Netflix Tableau Dashboard(Screenshot_2026-03-26_031710.png)
 
 ---
 
