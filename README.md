@@ -34,10 +34,17 @@ It explores Netflix’s evolution in terms of catalog growth, content type, glob
 
 ---
 
+# Portfolio Highlights
+- Python preprocessing: data cleaning, validation
+- Tableau storytelling: dashboards, annotations, maps
+- Business insights: growth, reach, ratings
+  
+---
+
 # Dashboards
 - Image of Netflix Tableau Dashboard(Screenshot_2026-03-26_031710.png)
 
 ---
 
 # Demo
-A walkthrough video (`netflix.mp4`) showcases the dashboards and insights.
+- A walkthrough video (`netflix.mp4`) showcases the dashboards and insights.
