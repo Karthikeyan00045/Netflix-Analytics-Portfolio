@@ -48,3 +48,8 @@ It explores Netflix’s evolution in terms of catalog growth, content type, glob
 
 # Demo
 - A walkthrough video (`netflix.mp4`) showcases the dashboards and insights.
+
+# Work With Me
+Explore my recruiter‑ready Tableau dashboards and analytics portfolio.  
+👉 [View my Fiverr Portfolio](https://www.fiverr.com/users/karthikeyang756/portfolio)
+
